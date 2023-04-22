@@ -1,4 +1,4 @@
-# Music-Blog-Website-Project
+# Music-Blog-Website-Template
 
 ## A Responsive Music Blog Website Design Using HTML & CSS Only.
 
