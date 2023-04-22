@@ -17,7 +17,13 @@ This website is an example that was built for showing how to create a custom BLO
 ## Here is a tutorial video you can watch.
 <a href="" target="_blank"><a>
   
- ![website](https://user-images.githubusercontent.com/34037962/233790639-6be55f61-44b2-4fed-bdcc-e9249f54d44d.jpeg)
+## General Website View
+
+![website](https://user-images.githubusercontent.com/34037962/233790639-6be55f61-44b2-4fed-bdcc-e9249f54d44d.jpeg)
+
+* Video
+ 
+   https://user-images.githubusercontent.com/34037962/233791208-9b7365e0-026e-492e-85dc-8d780c8dbc54.mp4
 
 ## Here are the steps to install this project
 
@@ -25,10 +31,7 @@ The easiest way to see how this project works is to watch the tutorial video, bu
 
 1. Clone the project
 2. Set up a IDE (in my case Visual Studio Code) 
-  
-## Video
- 
-   https://user-images.githubusercontent.com/34037962/233791208-9b7365e0-026e-492e-85dc-8d780c8dbc54.mp4
+
   
 ## How to tweak the project for your own uses 
 
