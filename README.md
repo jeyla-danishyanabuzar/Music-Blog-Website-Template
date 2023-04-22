@@ -16,7 +16,7 @@ This website is an example that was built for showing how to create a custom BLO
 
 ## Here is a tutorial video you can watch.
 <a href="" target="_blank">
-<img src="" alt="Tutorial video" width="100%" height="100%">
+<img src="images/website.png" alt="Tutorial video" width="100%" height="100%">
 <a>
 
 ## Here are the steps to install this project
