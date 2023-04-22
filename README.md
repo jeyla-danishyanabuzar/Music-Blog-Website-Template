@@ -1,6 +1,6 @@
 # Music-Blog-Website-Project
 
-## A Responsive Music Blog Website Design Using HTML & CSS Only written in VS Code
+## A Responsive Music Blog Website Design Using HTML & CSS Only.
 
 This website is an example that was built for showing how to create a custom BLOG-Website from scratch using HTML and CSS. Every part of the project is sample code which shows how to do the following:
 
