@@ -15,9 +15,9 @@ This website is an example that was built for showing how to create a custom BLO
 * Validating the HTML and CSS code to ensure it meets web standards
 
 ## Here is a tutorial video you can watch.
-<a href="" target="_blank">
-<img src="**images/website.png**" alt="Tutorial video" width="100%" height="100%">
-<a>
+<a href="" target="_blank"><a>
+  
+ ![website](https://user-images.githubusercontent.com/34037962/233790639-6be55f61-44b2-4fed-bdcc-e9249f54d44d.jpeg)
 
 ## Here are the steps to install this project
 
