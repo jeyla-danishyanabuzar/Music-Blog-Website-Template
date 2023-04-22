@@ -26,8 +26,8 @@ The easiest way to see how this project works is to watch the tutorial video, bu
 1. Clone the project
 2. Set up a IDE (in my case Visual Studio Code) 
   
-  https://user-images.githubusercontent.com/34037962/233791208-9b7365e0-026e-492e-85dc-8d780c8dbc54.mp4 | height="300"
-
+   ![website](https://user-images.githubusercontent.com/34037962/233791208-9b7365e0-026e-492e-85dc-8d780c8dbc54.mp4/height="300")
+  
 ## How to tweak the project for your own uses 
 
 * Since this website is an example project, I'd encourage you to clone and rename this project to use for your own purposes. It's a good starting point.
